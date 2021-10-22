@@ -35,7 +35,7 @@ public class Desafio2 {
             if(numeroEntrada == 0) break;
         }
 
-        System.out.println("Menor número: " + menorQuantidadeNumeros);
+        System.out.println(menorQuantidadeNumeros);
 
     }
 }
